@@ -93,10 +93,3 @@ print(table.get("Peach"))
 print(table.get("Apple"))
 print(table.get("Banana"))
 
-d = dict()
-d["Banana"] = 3
-d["Peach"] = 1
-d["Apple"] = 4
-d["Apple"] = 7
-print(d)
-print(d["Peach"])
